@@ -31,7 +31,8 @@
 - Introducción a los arrays: lista de elementos.
 - Métodos básicos de arrays (`push`, `pop`).
 - Objetos como colección de propiedades y métodos.
-- [Ejercicios de entrega obligatoria](JS/05-Arrays/ejercicios.md)
+- [Ejercicios de entrega optativa](JS/05-Arrays/ejercicios.md)
+- Ejercicio de entrega obligatoria: 3 en raya
 
 ## [Capítulo 6: Manipulación del DOM](JS/06-DOM/readme.md)
 
