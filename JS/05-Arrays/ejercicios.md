@@ -39,6 +39,6 @@
 7. **Agrupar por longitud**  
     - Escribe una función que agrupe palabras de un array según su longitud.  
     **Ejemplo:**  
-    Entrada: `["perro", "gato", "elefante"]`  
-    Salida: `{4: ["perro", "gato"], 8: ["elefante"]}`
+    Entrada: `["loro", "gato", "elefante"]`  
+    Salida: `{4: ["loro", "gato"], 8: ["elefante"]}`
 
