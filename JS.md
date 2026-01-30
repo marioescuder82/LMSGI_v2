@@ -32,7 +32,11 @@
 - Métodos básicos de arrays (`push`, `pop`).
 - Objetos como colección de propiedades y métodos.
 - [Ejercicios de entrega optativa](JS/05-Arrays/ejercicios.md)
-- Ejercicio de entrega obligatoria: 3 en raya
+- Ejercicio de entrega obligatoria, 3 en raya:
+ - Utiliza arrays para almacenar el estado del tablero
+ - Utiliza diccionarios para mantener un historial de los movimientos realizados por cada jugador
+ - Tras cada jugada, muestra el estado del tablero
+ - Al acabar la partida, muestra el historial de jugadas
 
 ## [Capítulo 6: Manipulación del DOM](JS/06-DOM/readme.md)
 
